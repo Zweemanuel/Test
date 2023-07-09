@@ -1,0 +1,89 @@
+[
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "Spaghetti",
+        "Ground beef",
+        "Tomato sauce",
+        "Onions",
+        "Garlic",
+        "Herbs",
+        "Parmesan cheese"
+      ],
+      "price": 12.99,
+      "image": "images/pasta/spaghetti-bolognese.jpg"
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "ingredients": [
+        "Fettuccine pasta",
+        "Butter",
+        "Heavy cream",
+        "Parmesan cheese",
+        "Garlic",
+        "Parsley"
+      ],
+      "price": 11.99,
+      "image": "images/pasta/fettuccine-alfredo.jpg"
+    },
+    {
+      "name": "Penne Arrabbiata",
+      "ingredients": [
+        "Penne pasta",
+        "Tomato sauce",
+        "Red chili flakes",
+        "Garlic",
+        "Olive oil",
+        "Basil leaves"
+      ],
+      "price": 10.99,
+      "image": "images/pasta/penne-arrabbiata.jpg"
+    },
+    {
+      "name": "Lasagna",
+      "ingredients": [
+        "Lasagna sheets",
+        "Ground beef",
+        "Tomato sauce",
+        "Mozzarella cheese",
+        "Ricotta cheese",
+        "Parmesan cheese",
+        "Onions",
+        "Garlic",
+        "Herbs"
+      ],
+      "price": 14.99,
+      "image": "images/pasta/lasagna.jpg"
+    },
+    {
+      "name": "Pasta Carbonara",
+      "ingredients": [
+        "Spaghetti",
+        "Bacon",
+        "Eggs",
+        "Parmesan cheese",
+        "Garlic",
+        "Black pepper",
+        "Parsley"
+      ],
+      "price": 13.99,
+      "image": "images/pasta/carbonara.jpg"
+    },
+    {
+      "name": "Other Pasta1",
+      "ingredients": [
+        "anything"
+      ],
+      "price": 14.99,
+      "image": "images/pasta/other.jpg"
+    },
+    {
+      "name": "Other Pasta2",
+      "ingredients": [
+        "anything"
+      ],
+      "price": 14.99,
+      "image": "images/pasta/other.jpg"
+    }
+  ]
+  

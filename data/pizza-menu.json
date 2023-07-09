@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Margherita",
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Fresh basil leaves"
+    ],
+    "price": 10.99,
+    "image": "images/pizza/margherita.jpg"
+  },
+  {
+    "name": "Pepperoni",
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Pepperoni slices"
+    ],
+    "price": 12.99,
+    "image": "images/pizza/salami.jpg"
+  },
+  {
+    "name": "Hawaiian",
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Ham slices",
+      "Pineapple chunks"
+    ],
+    "price": 11.99,
+    "image": "images/pizza/hawai.jpg"
+  },
+  {
+    "name": "Vegetarian",
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Mushrooms",
+      "Bell peppers",
+      "Onions",
+      "Black olives"
+    ],
+    "price": 13.99,
+    "image": "images/pizza/vegetarian.jpg"
+  },
+  {
+    "name": "BBQ Chicken",
+    "ingredients": [
+      "BBQ sauce",
+      "Mozzarella cheese",
+      "Grilled chicken",
+      "Red onions",
+      "Cilantro"
+    ],
+    "price": 14.99,
+    "image": "images/pizza/bbq-chicken.jpg"
+  },
+  {
+    "name": "Other Pizza1",
+    "ingredients": [
+      "anything"
+    ],
+    "price": 14.99,
+    "image": "images/pizza/other.jpg"
+  },
+  {
+    "name": "Other Pizza2",
+    "ingredients": [
+      "anything"
+    ],
+    "price": 14.99,
+    "image": "images/pizza/other.jpg"
+  }
+]
